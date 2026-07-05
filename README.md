@@ -5,7 +5,7 @@
 ## 🔗 Live Demo
 
 **Try the application:**
-https://ai.studio/apps/0a1ae1d5-3c0e-4277-b730-c443d1c1b85f
+https://safeguard-ai-734646590467.asia-southeast1.run.app
 
 ---
 
